@@ -5,12 +5,6 @@
 
 This project was developed by a dedicated team of students as part of a hackathon initiative to solve real-world problems using full-stack web development and AI integration.
 
-## 🧠 Team Members
-
-- [Anurag Gaikwad](https://github.com/godslonelymann)
-- [Niral Shah](https://github.com/niral04)
-- [Yashvardhan](https://github.com/Yashvardhan0502)
-- [Rushikesh Waghmare](https://github.com/RushiWaghmare)
 
 ## 🚀 Project Overview
 
